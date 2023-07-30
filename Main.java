@@ -93,3 +93,10 @@ final Player[] playerRef = { player }; // Wrap in an array to make it effectivel
         }
     }
 }
+/* compile and run the code with classpath of javazoom JLayer Library
+    For Windows:
+    compile :- javac -cp .;lib/jl1.0.1.jar Main.java
+    run :- java .;lib/jl1.0.1.jar Main
+    For Mac/Linux: 
+    use : in place of ;
+*/
